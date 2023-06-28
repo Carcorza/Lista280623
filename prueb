@@ -1,0 +1,21 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="AEChile.cl" tvg-name="COL: CARACOL" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="COLOMBIA⭐️", COL: CARACOL
+http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3571
+#EXTINF: -1 tvg-id="AEChile.cl" tvg-name="COL: CARACOL HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="COLOMBIA⭐️", COL: CARACOL HD
+http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3572
+#EXTINF: -1 tvg-id="AEChile.cl" tvg-name="COL: CARACOL INTERNACIONAL" tvg-logo="https://es.wikipedia.org/wiki/Caracol_Internacional#/media/Archivo:Caracol_HD_Internacional.png" group-title="COLOMBIA⭐️", COL: CARACOL INTERNACIONAL
+http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3573
+#EXTINF: -1 tvg-id="CaracolTelevision.co" tvg-name="COL: CARACOL NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="COLOMBIA⭐️", COL: CARACOL NOTICIAS HD
+http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3574
+#EXTINF: -1 tvg-id="AEChile.cl" tvg-name="COL: RCN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA⭐️", COL: RCN FHD
+http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3575
+#EXTINF: -1 tvg-id="AEChile.cl" tvg-name="COL: RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA⭐️", COL: RCN HD
+http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3576
+#EXTINF: -1 tvg-id="RCNNovelas.co" tvg-name="COL: RCN NOVELAS" tvg-logo="https://es.wikipedia.org/wiki/RCN_Novelas#/media/Archivo:RCN_Novelas_logo.svg" group-title="COLOMBIA⭐️", COL: RCN NOVELAS
+http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3577
+#EXTINF: -1 tvg-id="Teleantioquia.co" tvg-name="COL: TELEANTIOQUIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleantioquia.png" group-title="COLOMBIA⭐️", COL: TELEANTIOQUIA
+http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3578
+#EXTINF: -1 tvg-id="Telecafe.co" tvg-name="COL: TELECAFE HD" tvg-logo="https://files.rcnradio.com/public/migration/logo-telecafe-2014.png" group-title="COLOMBIA⭐️", COL: TELECAFE HD
+http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3580
+#EXTINF: -1 tvg-id="AEChile.cl" tvg-name="COL: TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/1200px-Telecaribe2017.png" group-title="COLOMBIA⭐️", COL: TELECARIBE
+http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3581
