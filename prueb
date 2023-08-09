@@ -1,21 +1,377 @@
-#EXTM3U 
-#EXTINF: -1 tvg-id="AEChile.cl" tvg-name="COL: CARACOL" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="COLOMBIA⭐️", COL: CARACOL
-http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3571
-#EXTINF: -1 tvg-id="AEChile.cl" tvg-name="COL: CARACOL HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_caracol_m.png" group-title="COLOMBIA⭐️", COL: CARACOL HD
-http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3572
-#EXTINF: -1 tvg-id="AEChile.cl" tvg-name="COL: CARACOL INTERNACIONAL" tvg-logo="https://es.wikipedia.org/wiki/Caracol_Internacional#/media/Archivo:Caracol_HD_Internacional.png" group-title="COLOMBIA⭐️", COL: CARACOL INTERNACIONAL
-http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3573
-#EXTINF: -1 tvg-id="CaracolTelevision.co" tvg-name="COL: CARACOL NOTICIAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="COLOMBIA⭐️", COL: CARACOL NOTICIAS HD
-http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3574
-#EXTINF: -1 tvg-id="AEChile.cl" tvg-name="COL: RCN FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA⭐️", COL: RCN FHD
-http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3575
-#EXTINF: -1 tvg-id="AEChile.cl" tvg-name="COL: RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title="COLOMBIA⭐️", COL: RCN HD
-http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3576
-#EXTINF: -1 tvg-id="RCNNovelas.co" tvg-name="COL: RCN NOVELAS" tvg-logo="https://es.wikipedia.org/wiki/RCN_Novelas#/media/Archivo:RCN_Novelas_logo.svg" group-title="COLOMBIA⭐️", COL: RCN NOVELAS
-http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3577
-#EXTINF: -1 tvg-id="Teleantioquia.co" tvg-name="COL: TELEANTIOQUIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleantioquia.png" group-title="COLOMBIA⭐️", COL: TELEANTIOQUIA
-http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3578
-#EXTINF: -1 tvg-id="Telecafe.co" tvg-name="COL: TELECAFE HD" tvg-logo="https://files.rcnradio.com/public/migration/logo-telecafe-2014.png" group-title="COLOMBIA⭐️", COL: TELECAFE HD
-http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3580
-#EXTINF: -1 tvg-id="AEChile.cl" tvg-name="COL: TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Telecaribe2017.png/1200px-Telecaribe2017.png" group-title="COLOMBIA⭐️", COL: TELECARIBE
-http://tutvxweb.net:8000/LineaInterna20ANKDE/NUEVA73495FF/3581
+#EXTM3U
+#EXTINF:-1 group-title="Parabolica",AE Mundo
+http://209.45.52.14:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Parabolica",AMC HD
+http://209.45.52.14:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ATV
+http://209.45.52.14:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="Parabolica",AXN
+http://209.45.52.14:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="Parabolica",America TV HD
+http://209.45.52.14:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Animal Planet
+http://209.45.52.14:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Animal Planet HD
+http://209.45.52.14:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="Parabolica",CNN Espanol
+http://209.45.52.14:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Canal Estrellas
+http://209.45.52.14:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Cartoon Network HD
+http://209.45.52.14:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Cinecanal HD
+http://209.45.52.14:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Cinemax
+http://209.45.52.14:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Discovery Channel
+http://209.45.52.14:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Discovery ID
+http://209.45.52.14:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Discovery Kids
+http://209.45.52.14:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Discovery Turbo
+http://209.45.52.14:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Discovery World HD
+http://209.45.52.14:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Disney Channel
+http://209.45.52.14:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Disney Jr
+http://209.45.52.14:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Parabolica",E Entertainment
+http://209.45.52.14:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="Parabolica",E! HD
+http://209.45.52.14:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ESPN 2
+http://209.45.52.14:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ESPN 3
+http://209.45.52.14:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ESPN 4
+http://209.45.52.14:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ESPN EXTRA HD
+http://209.45.52.14:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ESPN HD
+http://209.45.52.14:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="Parabolica",FX
+http://209.45.52.14:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Food Network HD
+http://209.45.52.14:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Fox Sports 2
+http://209.45.52.14:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Fox Sports 3
+http://209.45.52.14:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="Parabolica",GOLPERU HD
+http://209.45.52.14:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Parabolica",GolTV HD
+http://209.45.52.14:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Golden HD
+http://209.45.52.14:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Parabolica",HBO 2 HD
+http://209.45.52.14:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="Parabolica",HBO 2 SD
+http://209.45.52.14:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Parabolica",HBO Family
+http://209.45.52.14:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Parabolica",HBO HD
+http://209.45.52.14:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="Parabolica",HBO Plus
+http://209.45.52.14:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="Parabolica",HBO XTREME SD
+http://209.45.52.14:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="Parabolica",HomeandHealth
+http://209.45.52.14:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TLT
+https://vcp4.myplaytv.com/tlt-ve/tlt-2023.stream/chunklist.m3u
+#EXTINF:-1 group-title="Parabolica",Latina
+http://209.45.52.14:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Latina HD
+http://209.45.52.14:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Movistar Deportes HD
+http://209.45.52.14:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Nat Geo HD
+http://209.45.52.14:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Nick Jr
+http://209.45.52.14:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Panamericana TV
+http://209.45.52.14:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Paramount HD
+http://209.45.52.14:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="Parabolica",RCN Novelas
+http://209.45.52.14:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="Parabolica",STAR CHANNEL
+http://209.45.52.14:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Sony
+http://209.45.52.14:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Space
+http://209.45.52.14:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Studio Universal
+http://209.45.52.14:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Studio Universal HD
+http://209.45.52.14:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TBS
+http://209.45.52.14:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TLC
+http://209.45.52.14:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TV Peru
+http://209.45.52.14:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TV+ HD
+http://209.45.52.14:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Telehit HD
+http://209.45.52.14:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Telemundo
+http://209.45.52.14:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Tl-n
+http://209.45.52.14:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TyC
+http://209.45.52.14:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TyC Sports HD
+http://209.45.52.14:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Universal Cinema SD
+http://209.45.52.14:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Universal Comedy SD
+http://209.45.52.14:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Universal Premiere SD
+http://209.45.52.14:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Venus
+http://209.45.52.14:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ViaX
+http://209.45.52.14:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="Parabolica",WILLAX
+http://209.45.52.14:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Warner
+http://209.45.52.14:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="Parabolica",cartoonito
+http://209.45.52.14:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="Parabolica",80s Hits
+http://191.102.90.97:8000/play/a08x/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ALBA TV
+http://191.102.90.97:8000/play/a08c/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ANTV
+http://191.102.90.97:8000/play/a0h4/index.m3u8
+#EXTINF:-1 group-title="Parabolica",AXN
+http://191.102.90.97:8000/play/a0h3/index.m3u8
+#EXTINF:-1 group-title="Parabolica",America TV PY
+http://191.102.90.97:8000/play/a070/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Animal Planet
+http://191.102.90.97:8000/play/a0i9/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Avila TV
+http://191.102.90.97:8000/play/a086/index.m3u8
+#EXTINF:-1 group-title="Parabolica",BabyFirst
+http://191.102.90.97:8000/play/a090/index.m3u8
+#EXTINF:-1 group-title="Parabolica",BabyFirst
+http://191.102.90.97:8000/play/a0de/index.m3u8
+#EXTINF:-1 group-title="Parabolica",CANAL HABANA
+http://191.102.90.97:8000/play/a09n/index.m3u8
+#EXTINF:-1 group-title="Parabolica",CANAL I
+http://191.102.90.97:8000/play/a09c/index.m3u8
+#EXTINF:-1 group-title="Parabolica",CGTN
+http://191.102.90.97:8000/play/a08r/index.m3u8
+#EXTINF:-1 group-title="Parabolica",CGTN Documentary
+http://191.102.90.97:8000/play/a0it/index.m3u8
+#EXTINF:-1 group-title="Parabolica",CLAVE
+http://191.102.90.97:8000/play/a09l/index.m3u8
+#EXTINF:-1 group-title="Parabolica",CNN Espanol
+http://191.102.90.97:8000/play/a0iz/index.m3u8
+#EXTINF:-1 group-title="Parabolica",COLOMBEIA
+http://191.102.90.97:8000/play/a08w/index.m3u8
+#EXTINF:-1 group-title="Parabolica",COLOR VISION 9
+http://191.102.90.97:8000/play/a09o/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Canal Caracol
+http://191.102.90.97:8000/play/a0ga/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Canal Estrellas
+http://191.102.90.97:8000/play/a08f/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Canal Institucional
+http://191.102.90.97:8000/play/a0gc/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Canal Publico de Argentina
+http://191.102.90.97:8000/play/a096/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Canal RCN
+http://191.102.90.97:8000/play/a0gb/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Canal Uno
+http://191.102.90.97:8000/play/a0g9/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Canal Vasco
+http://191.102.90.97:8000/play/a097/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Canal del Congreso
+http://191.102.90.97:8000/play/a0gd/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Capital
+http://191.102.90.97:8000/play/a0gi/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Cartoon Network
+http://191.102.90.97:8000/play/a07q/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Cinecanal
+http://191.102.90.97:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Cinemax
+http://191.102.90.97:8000/play/a0ax/index.m3u8
+#EXTINF:-1 group-title="Parabolica",City TV
+http://191.102.90.97:8000/play/a0gh/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Classic RockRoll
+http://191.102.90.97:8000/play/a0gn/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ConCiencia TV
+http://191.102.90.97:8000/play/a08y/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Discovery Channel
+http://191.102.90.97:8000/play/a085/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Discovery ID
+http://191.102.90.97:8000/play/a0fo/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Discovery Kids
+http://191.102.90.97:8000/play/a0iy/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Discovery Turbo
+http://191.102.90.97:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Disney Channel
+http://191.102.90.97:8000/play/a084/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Disney Jr
+http://191.102.90.97:8000/play/a0ja/index.m3u8
+#EXTINF:-1 group-title="Parabolica",E Entertainment
+http://191.102.90.97:8000/play/a088/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ESPN
+http://191.102.90.97:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ESPN 2
+http://191.102.90.97:8000/play/a0jd/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ESPN 2 Latin
+http://191.102.90.97:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ESPN 3
+http://191.102.90.97:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ESPN 4
+http://191.102.90.97:8000/play/a08n/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ESPN CO
+http://191.102.90.97:8000/play/a0gj/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Ecuavision HD
+http://191.102.90.97:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Ecuavision Internacional
+http://191.102.90.97:8000/play/a09k/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Enlace
+http://191.102.90.97:8000/play/a07t/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Esne TV
+http://191.102.90.97:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="Parabolica",FX
+http://191.102.90.97:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Fox Sports 2
+http://191.102.90.97:8000/play/a08g/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Fox Sports 3
+http://191.102.90.97:8000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="Parabolica",GLOBOVISION
+http://191.102.90.97:8000/play/a091/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Hard Rock
+http://191.102.90.97:8000/play/a0jk/index.m3u8
+#EXTINF:-1 group-title="Parabolica",History Channel
+http://191.102.90.97:8000/play/a07i/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Hit List
+http://191.102.90.97:8000/play/a0jl/index.m3u8
+#EXTINF:-1 group-title="Parabolica",HomeandHealth
+http://191.102.90.97:8000/play/a08m/index.m3u8
+#EXTINF:-1 group-title="Parabolica",I-Sat
+http://191.102.90.97:8000/play/a07l/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Latin Pop
+http://191.102.90.97:8000/play/a0gq/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Latino Tropical
+http://191.102.90.97:8000/play/a0gr/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Lifetime
+http://191.102.90.97:8000/play/a07w/index.m3u8
+#EXTINF:-1 group-title="Parabolica",MTV
+http://191.102.90.97:8000/play/a07m/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Meridiano
+http://191.102.90.97:8000/play/a093/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Nat Geo
+http://191.102.90.97:8000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="Parabolica",New Age
+http://191.102.90.97:8000/play/a0gv/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Nick Jr
+http://191.102.90.97:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Nickelodeon
+http://191.102.90.97:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Oromar TV
+http://191.102.90.97:8000/play/a09b/index.m3u8
+#EXTINF:-1 group-title="Parabolica",RCN Novelas
+http://191.102.90.97:8000/play/a0fn/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Reggae
+http://191.102.90.97:8000/play/a0gy/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Reggaeton
+http://191.102.90.97:8000/play/a0gz/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Reggaeton
+http://191.102.90.97:8000/play/a0h1/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Rock Latino
+http://191.102.90.97:8000/play/a0h0/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Romance Latino
+http://191.102.90.97:8000/play/a0gs/index.m3u8
+#EXTINF:-1 group-title="Parabolica",STAR CHANNEL
+http://191.102.90.97:8000/play/a07o/index.m3u8
+#EXTINF:-1 group-title="Parabolica",SURAM
+http://191.102.90.97:8000/play/a0io/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Salsa y Merengue
+http://191.102.90.97:8000/play/a0go/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Senal Colombia
+http://191.102.90.97:8000/play/a0ge/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ShowVen TV
+http://191.102.90.97:8000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Sin Limites
+http://191.102.90.97:8000/play/a0i8/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Solo Para Peques
+http://191.102.90.97:8000/play/a0gp/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Sony
+http://191.102.90.97:8000/play/a0au/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Space
+http://191.102.90.97:8000/play/a071/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Studio Universal
+http://191.102.90.97:8000/play/a0jc/index.m3u8
+#EXTINF:-1 group-title="Parabolica",SyFy
+http://191.102.90.97:8000/play/a0bf/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TBS
+http://191.102.90.97:8000/play/a08l/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TCM
+http://191.102.90.97:8000/play/a07p/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TELESUR
+http://191.102.90.97:8000/play/a08v/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TLC
+http://191.102.90.97:8000/play/a08e/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TLT HD
+http://191.102.90.97:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TNT
+http://191.102.90.97:8000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TRO
+http://191.102.90.97:8000/play/a0gf/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TV Galicia
+http://191.102.90.97:8000/play/a098/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TV PERU
+http://191.102.90.97:8000/play/a09f/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TVE
+http://191.102.90.97:8000/play/a07u/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TVES
+http://191.102.90.97:8000/play/a08u/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TVFANB
+http://191.102.90.97:8000/play/a0jj/index.m3u8
+#EXTINF:-1 group-title="Parabolica",TVT
+http://191.102.90.97:8000/play/a09d/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Teleantioquia
+http://191.102.90.97:8000/play/a073/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Telecafe
+http://191.102.90.97:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Telecaribe
+http://191.102.90.97:8000/play/a07a/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Teleislas
+http://191.102.90.97:8000/play/a0gg/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Telemundo
+http://191.102.90.97:8000/play/a08i/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Telepacifico
+http://191.102.90.97:8000/play/a074/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Televen
+http://191.102.90.97:8000/play/a094/index.m3u8
+#EXTINF:-1 group-title="Parabolica",1,Trece
+http://191.102.90.97:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="Parabolica",UNITEL HD
+http://191.102.90.97:8000/play/a09p/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Universal
+http://191.102.90.97:8000/play/a07k/index.m3u8
+#EXTINF:-1 group-title="Parabolica",VEPACOTV
+http://191.102.90.97:8000/play/a099/index.m3u8
+#EXTINF:-1 group-title="Parabolica",VTV
+http://191.102.90.97:8000/play/a08s/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Venevision
+http://191.102.90.97:8000/play/a092/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ViaX
+http://191.102.90.97:8000/play/a0bw/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Vive TV 
+http://191.102.90.97:8000/play/a08t/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Warner
+http://191.102.90.97:8000/play/a0e5/index.m3u8
+#EXTINF:-1 group-title="Parabolica",ZOOM
+http://191.102.90.97:8000/play/a0b9/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Zona Latina
+http://191.102.90.97:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="Parabolica",Zoom
+http://191.102.90.97:8000/play/a0gk/index.m3u8
